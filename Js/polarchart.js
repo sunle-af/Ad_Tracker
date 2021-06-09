@@ -13,7 +13,6 @@ $(document).ready(function() {
         },
         options: {
             title: {
-                
                 display: true,
                 text: ''
             }
